@@ -1,0 +1,15 @@
+body {
+  background-color: yellow;
+}
+
+.cool{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    transition: backgroun-color 1s;
+}
+
+.cool.red{
+    background-color: grey;
+
+}
