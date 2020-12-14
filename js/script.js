@@ -1,4 +1,6 @@
-
+setTimeout(function(){
+  location.href = "rocket.html";
+}, 2000);
 var doCoolStuff = function{
   document.getElementById('cool').className = 'cool red'; ';
 }
